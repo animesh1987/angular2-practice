@@ -1,0 +1,17 @@
+{
+  "passengers": [
+    {
+      "fullname": "Animesh",
+      "id": 1,
+      "checkedIn": false,
+      "baggage": "none"
+    },
+    {
+      "fullname": "Ajay dda",
+      "id": 2,
+      "checkedIn": true,
+      "baggage": "hold",
+      "checkInDate": 143792000000
+    }
+  ]
+}

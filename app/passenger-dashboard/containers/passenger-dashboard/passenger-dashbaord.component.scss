@@ -1,0 +1,12 @@
+.status{
+  height:10px;
+  width: 10px;
+  border-radius: 50%;
+  background: #c0392b;
+  margin: 8px 10px 0 0;
+  float: left;
+  display: block;
+  &.checked-in{
+    background: #2ecc71;
+  }
+}
